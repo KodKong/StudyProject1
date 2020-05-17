@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Работа7\bin\Debug\Работа7.exe.config
+C:\Users\ADMIN\source\repos\Работа7\bin\Debug\Работа7.exe
+C:\Users\ADMIN\source\repos\Работа7\bin\Debug\Работа7.pdb
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.Form1.resources
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.exe
+C:\Users\ADMIN\source\repos\Работа7\obj\Debug\Работа7.pdb
